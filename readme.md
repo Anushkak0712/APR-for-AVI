@@ -46,3 +46,17 @@ This project implements a multimodal deep learning pipeline for predicting Big F
 
 ### 🗄️ Database
 - MongoDB Atlas
+
+## 📂 Dataset: First Impressions V2
+
+This project uses the **[First Impressions V2 Dataset](https://chalearnlap.cvc.uab.cat/dataset/24/description/)**, a publicly available multimodal dataset designed to support automatic personality recognition tasks from short video clips. The dataset provides annotations based on the **Big Five Personality Traits**—Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism.
+
+
+
+## 📋 Contents of the Dataset
+
+Each video sample in the dataset includes:
+
+- 🎥 **Visual Data**: Short clips of individuals talking (used for facial feature,speech and body language extraction).
+- 📝 **Transcripts**: Human-generated or machine-generated transcripts of speech (used for textual and linguistic analysis).
+- 🧠 **Personality Labels**:Values representing the degree to which each of the Big Five traits is present
