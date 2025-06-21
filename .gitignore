@@ -1,0 +1,9 @@
+server/.venv
+server/uploads
+server/test.py
+server/*/__pycache__
+server/__pycache__
+server/*.pyc
+server/first_impressions_model.keras
+server/.env
+client/node_modules
